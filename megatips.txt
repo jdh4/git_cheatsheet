@@ -3,5 +3,7 @@
 3
 4
 5
+import apex
 Six
 The files are now live
+apex.amd()
